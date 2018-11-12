@@ -1,10 +1,10 @@
 NGINX Configuration for Yii2 advanced w/ Server tuning-up
 ===
 
-There are times when there is no need or no possibility to place the frontend and backend parts on different domains. Here are the instructions for configuration of the Apache or Nginx web servers for using multiple applications on a single domain.
+Here are the instructions for configuration of the Apache or Nginx web servers for using multiple applications on a single domain including NGINX tuning-up
 
 **Final frontend URL: http://advanced.local**  
-**Final backend URL: http://advanced.local/admin**
+**Final backend URL: http://advanced.local/backdoor**
 
 Preparation
 ---
