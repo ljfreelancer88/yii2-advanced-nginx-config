@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'homeUrl' => '/admin',
+    'homeUrl' => '/backdoor',
     'components' => [
         'request' => [
-            'baseUrl' => '/admin',
+            'baseUrl' => '/backdoor',
         ],
         'urlManager' => [
             'enablePrettyUrl' => true,
