@@ -1,4 +1,4 @@
-NGINX Configuration for Yii 2 Advanced with server tuning-up
+NGINX Configuration for Yii2 advanced w/ Server tuning-up
 ===
 
 There are times when there is no need or no possibility to place the frontend and backend parts on different domains. Here are the instructions for configuration of the Apache or Nginx web servers for using multiple applications on a single domain.
